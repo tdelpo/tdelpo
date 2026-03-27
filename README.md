@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Dr Tim Delport. 
+
+I am a quantitative professional focused on building a career in quantitative finance (researcher, analyst and/or trader) and trading, with a genuine interest in markets, risk, commodities, crypto, events, and both alpha and deep research. I offer proven strengths in advanced analytics, finance, research and programming, developed through work in technology start-ups and data-intensive commodity/energy market environments. I am known for integrating multi-disciplinary expertise with applied mathematics and machine learning to tackle complex, multi-faceted problems. This approach has led to the successful development of robust, data-driven proprietary models and analytical systems used for signal analysis/generation, market strategy design and forecasting across multiple organisations.
+
+I'm currently working on further developing my quantitative finance skills and knowledge by taking on several projects, challenges and competitions of interest. I am to publish my projects publicly on Github, but were I find genuine market edges, I will understandably be keeping these private. 
+
+I have an open interest in quantitative research, trading and analyst roles at both sell-side and buy-side firms. Please reach out if you'd be interested in discussing an opportunity with me. 
+📫 How to reach me: delporttim@gmail.com
